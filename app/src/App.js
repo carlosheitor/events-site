@@ -1,5 +1,6 @@
 import React from "react";
+import HeaderEvents from "./components/HeaderEvents";
 
-const App = () => <h1>Eventos</h1>
+const App = () => <HeaderEvents />;
 
 export default App;
